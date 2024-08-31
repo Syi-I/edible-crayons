@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/orange"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "ediblecrayons:crayon_mold"
+    }
+  ],
+  "result": {
+    "item": "ediblecrayons:orange_crayon"
+  }
+}

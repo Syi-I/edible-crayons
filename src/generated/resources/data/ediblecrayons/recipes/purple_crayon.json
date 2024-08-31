@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/purple"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "ediblecrayons:crayon_mold"
+    }
+  ],
+  "result": {
+    "item": "ediblecrayons:purple_crayon"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dyes/yellow"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "ediblecrayons:crayon_mold"
+    }
+  ],
+  "result": {
+    "item": "ediblecrayons:yellow_crayon"
+  }
+}

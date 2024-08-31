@@ -1,0 +1,15 @@
+{
+  "itemGroup.ediblecrayons": "Edible Crayons",
+
+  "tooltip.ediblecrayons.desc": "When eaten, applies 30 seconds of ",
+
+  "item.ediblecrayons.crayon_mold": "Crayon Mold",
+
+  "item.ediblecrayons.red_crayon": "Red Crayon",
+  "item.ediblecrayons.orange_crayon": "Orange Crayon",
+  "item.ediblecrayons.yellow_crayon": "Yellow Crayon",
+  "item.ediblecrayons.green_crayon": "Green Crayon",
+  "item.ediblecrayons.blue_crayon": "Blue Crayon",
+  "item.ediblecrayons.purple_crayon": "Purple Crayon",
+  "item.ediblecrayons.pink_crayon": "Pink Crayon"
+}
